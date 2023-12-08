@@ -1,0 +1,1 @@
+g++ -o "/home/lhr/newpool/poolcpp/bin/x64/Debug/poolcpp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/lhr/newpool/poolcpp/obj/x64/Debug/main.o /home/lhr/newpool/poolcpp/obj/x64/Debug/poolcpp.o -lpthread
